@@ -535,7 +535,7 @@ footer li {
     right: 45%;
   }
   .home {
-    padding-top: 25rem !important; /* Ganti angka 15rem ini sesuai kebutuhan */
+    padding-top: 21rem !important; /* Ganti angka 15rem ini sesuai kebutuhan */
     min-height: 110vh; /* Sedikit perpanjang halaman agar teks tidak kepotong bawah */
   }
 }
@@ -571,3 +571,4 @@ footer li {
     width: 50%;
   }
 }
+
